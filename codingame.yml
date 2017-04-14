@@ -1,0 +1,94 @@
+title: Kotlin Koans
+plan:
+  - title: Introduction
+    statements: Kotlin Koans CodingGame/Introduction/lesson.md
+    - title: Hello, world!
+      statements: Kotlin Koans CodingGame/Introduction/Hello, world!/task.md
+    - title: Named arguments
+      statements: Kotlin Koans CodingGame/Introduction/Named arguments/task.md
+    - title: Default arguments
+      statements: Kotlin Koans CodingGame/Introduction/Default arguments/task.md
+    - title: Lambdas
+      statements: Kotlin Koans CodingGame/Introduction/Lambdas/task.md
+    - title: Strings
+      statements: Kotlin Koans CodingGame/Introduction/Strings/task.md
+    - title: Data classes
+      statements: Kotlin Koans CodingGame/Introduction/Data classes/task.md
+    - title: Nullable types
+      statements: Kotlin Koans CodingGame/Introduction/Nullable types/task.md
+    - title: Smart casts
+      statements: Kotlin Koans CodingGame/Introduction/Smart casts/task.md
+    - title: Extension functions
+      statements: Kotlin Koans CodingGame/Introduction/Extension functions/task.md
+    - title: Object expressions
+      statements: Kotlin Koans CodingGame/Introduction/Object expressions/task.md
+    - title: SAM conversions
+      statements: Kotlin Koans CodingGame/Introduction/SAM conversions/task.md
+    - title: Extensions on collections
+      statements: Kotlin Koans CodingGame/Introduction/Extensions on collections/task.md
+  - title: Conventions
+    statements: Kotlin Koans CodingGame/Conventions/lesson.md
+    - title: Comparison
+      statements: Kotlin Koans CodingGame/Conventions/Comparison/task.md
+    - title: In range
+      statements: Kotlin Koans CodingGame/Conventions/In range/task.md
+    - title: Range to
+      statements: Kotlin Koans CodingGame/Conventions/Range to/task.md
+    - title: For loop
+      statements: Kotlin Koans CodingGame/Conventions/For loop/task.md
+    - title: Operators overloading
+      statements: Kotlin Koans CodingGame/Conventions/Operators overloading/task.md
+    - title: Destructuring declarations
+      statements: Kotlin Koans CodingGame/Conventions/Destructuring declarations/task.md
+    - title: Invoke
+      statements: Kotlin Koans CodingGame/Conventions/Invoke/task.md
+  - title: Collections
+    statements: Kotlin Koans CodingGame/Collections/lesson.md
+    - title: Introduction
+      statements: Kotlin Koans CodingGame/Collections/Introduction/task.md
+    - title: Filter map
+      statements: Kotlin Koans CodingGame/Collections/Filter map/task.md
+    - title: All Any and other predicates
+      statements: Kotlin Koans CodingGame/Collections/All Any and other predicates/task.md
+    - title: FlatMap
+      statements: Kotlin Koans CodingGame/Collections/FlatMap/task.md
+    - title: Max min
+      statements: Kotlin Koans CodingGame/Collections/Max min/task.md
+    - title: Sort
+      statements: Kotlin Koans CodingGame/Collections/Sort/task.md
+    - title: Sum
+      statements: Kotlin Koans CodingGame/Collections/Sum/task.md
+    - title: GroupBy
+      statements: Kotlin Koans CodingGame/Collections/GroupBy/task.md
+    - title: Partition
+      statements: Kotlin Koans CodingGame/Collections/Partition/task.md
+    - title: Fold
+      statements: Kotlin Koans CodingGame/Collections/Fold/task.md
+    - title: Compound tasks
+      statements: Kotlin Koans CodingGame/Collections/Compound tasks/task.md
+    - title: Get used to new style
+      statements: Kotlin Koans CodingGame/Collections/Get used to new style/task.md
+  - title: Properties
+    statements: Kotlin Koans CodingGame/Properties/lesson.md
+    - title: Properties
+      statements: Kotlin Koans CodingGame/Properties/Properties/task.md
+    - title: Lazy property
+      statements: Kotlin Koans CodingGame/Properties/Lazy property/task.md
+    - title: Delegates examples
+      statements: Kotlin Koans CodingGame/Properties/Delegates examples/task.md
+    - title: Delegates how it works
+      statements: Kotlin Koans CodingGame/Properties/Delegates how it works/task.md
+  - title: Builders
+    statements: Kotlin Koans CodingGame/Builders/lesson.md
+    - title: Function literals with receiver
+      statements: Kotlin Koans CodingGame/Builders/Function literals with receiver/task.md
+    - title: String and map builders
+      statements: Kotlin Koans CodingGame/Builders/String and map builders/task.md
+    - title: The function apply
+      statements: Kotlin Koans CodingGame/Builders/The function apply/task.md
+    - title: Builders how it works
+      statements: Kotlin Koans CodingGame/Builders/Builders how it works/task.md
+  - title: Generics
+    statements: Kotlin Koans CodingGame/Generics/lesson.md
+    - title: Generic functions
+      statements: Kotlin Koans CodingGame/Generics/Generic functions/task.md
